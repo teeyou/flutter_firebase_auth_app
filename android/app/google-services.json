@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "521100788866",
+    "firebase_url": "https://teeublog.firebaseio.com",
+    "project_id": "teeublog",
+    "storage_bucket": "teeublog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521100788866:android:89fc68b699bb8ade09a09b",
+        "android_client_info": {
+          "package_name": "com.teeu.cse.dgu.flutter_firebase_auth_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521100788866-d250s7eveil3jcl6od1fnu3d41pv5r2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW5LlSfb42jIEvz8JKY9rvFjBgoy1HtbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521100788866-d250s7eveil3jcl6od1fnu3d41pv5r2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521100788866:android:03728417e485a74209a09b",
+        "android_client_info": {
+          "package_name": "intelli.android.sensordata.collect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521100788866-toubalshiq0oe0vgmsrs84hh6qt0vi02.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "intelli.android.sensordata.collect",
+            "certificate_hash": "3545ceaa34da397e856b8e4d20968ca5463adb34"
+          }
+        },
+        {
+          "client_id": "521100788866-d250s7eveil3jcl6od1fnu3d41pv5r2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW5LlSfb42jIEvz8JKY9rvFjBgoy1HtbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521100788866-d250s7eveil3jcl6od1fnu3d41pv5r2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521100788866:android:7f3b16759e181ddd09a09b",
+        "android_client_info": {
+          "package_name": "onem2m.android.mobiusprojectupgrade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521100788866-d250s7eveil3jcl6od1fnu3d41pv5r2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW5LlSfb42jIEvz8JKY9rvFjBgoy1HtbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521100788866-d250s7eveil3jcl6od1fnu3d41pv5r2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
